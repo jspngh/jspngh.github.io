@@ -1,124 +1,60 @@
 ---
 layout: default
 ---
+# Welcome
+I am Jonas, a software developer with a passion.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Education
+2012-2017: Master of Computer Science Engineering, Ghent University, Belgium
+<br>
+[Master Thesis](thesis): JIT-ROP attack against a MVEE
 
-[Link to another page](./another-page.html).
+------
 
-There should be whitespace between paragraphs.
+## Career
+2017-Present: Technical consultant (Electronics and Embedded Systems) @ Altran
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Clients {#career-clients}
+* Barco (2017-2018):
+  Python control framework for media gateway on Debian system
+  + Stream manipulation using gstreamer
+  + Running on customized Debian system
 
-# Header 1
+* PsiControl(2019-2020):
+  Bare-metal software development in C/C++
+  + Mostly working with ARM based MCUs (STM32 and NRF52)
+  + FreeRTOS
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Internal {#career-internal}
+- Python trainer (2019-2020)
 
-## Header 2
+------
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Smaller projects (personal, university and professional) {#projects}
+* 3D gripper arm to play 4-on-a-row
+* Visual SLAM with a simple 3 wheeled robot
+* Autonomous person recognition with drone & Qt GUI interface
 
-### Header 3
+* Backend development with .NET core & SQL server database (hosted in Azure)
+* Frontend development with [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor) WebAssembly (hosted in Azure)
+* Graphical application development with Windows Forms
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Several Rust projects
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+------
 
-#### Header 4
+## Skills and Technologies
+* C/C++
+* Python
+* C#
+* Rust
+* FreeRTOS
+* Git
+* Linux enthusiast
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+------
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
+## Languages
+* Dutch: fluent
+* English: fluent
+* French: basic

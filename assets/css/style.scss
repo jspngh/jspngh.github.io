@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  height:100vh;
+  margin:0;
+}
+
+/* Trick */
+body {
+  display:flex;
+  flex-direction:column;
+}
+
+footer {
+  margin-top:auto;
+}
+
+#foot {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  background: grey;
+  color: white;
+
+  a {
+    color: #9ddcff;
+  }
+}
