@@ -20,7 +20,7 @@ To give a quick idea of what this thesis was about.
 Return Oriented Programming (ROP):
 - One defense mechanism that has become widespread is called 'W $\oplus$ X':
   it disallows pages with both write and execute permission.
-- This prevents executing code that injected (by e.g., a buffer overflow).
+- This prevents executing code that was injected (by e.g., a buffer overflow).
 - But the attacker is inventive: they started using existing code for their nefarious purposes!
 - Find sequences of instructions in the executable that are of the following structure:
   ```
@@ -50,5 +50,5 @@ Just-in-time Return Oriented Programming (JIT-ROP):
   + placing the ROP chain in memory
 
 This was very interesting research, since there was a clear goal and lots to learn.
-As it turns out, JIT-ROP attacks could remain undetected by GHUMVEE,
+As it turns out, not all JIT-ROP attacks can be detected by GHUMVEE,
 proving again that no security mechanism is perfect.
