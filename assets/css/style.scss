@@ -8,6 +8,20 @@ body {
   margin:0;
 }
 
+@media only screen and (min-width: 767px) {
+  header {
+  a.button-github {
+      top: -20px;
+      background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  }
+
+  a.button-gitlab {
+      top: 70px;
+      background: transparent url(../images/gitlab-button.png) 0 0 no-repeat;
+  }
+  }
+}
+
 /* Trick */
 body {
   display:flex;

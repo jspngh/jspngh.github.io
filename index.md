@@ -29,7 +29,7 @@ I am Jonas, a software developer with a passion.
   - small M0 devices for motor and valve control
   - fast, feature rich STM32H7 boards with touchscreen and external flash
   - with or without RTOS (FreeRTOS)
-  - communication over I2C, CAN, UART or SPI
+  - communication over I2C, CAN, UART, SPI, BLE, ...
 
 ### Internal
 - Python trainer (2019-2020)

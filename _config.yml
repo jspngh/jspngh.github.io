@@ -16,7 +16,7 @@
 title: jspngh
 email: jonas@spanoghe.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site
+  Personal site of Jonas Spanoghe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonas.spanoghe.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JonasSpanoghe
@@ -27,6 +27,11 @@ markdown: kramdown
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+
+# GitLab settings
+gitlab:
+  repository_url: https://gitlab.com/jspngh
+  owner_url: https://gitlab.com/jspngh
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
