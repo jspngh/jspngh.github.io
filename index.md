@@ -2,7 +2,10 @@
 layout: default
 ---
 # Welcome
-I am Jonas, a software developer with a passion.
+I am Jonas, a software developer from Belgium.  
+Software development is a very diverse and interesting field, and I enjoy most things it has to offer.  
+At this moment in my career, I'm mostly interested in working with computing devices on a low-level.  
+This includes not only writing code (embedded or systems programming), but also computer security, etc.
 
 ## Education
 2012-2017: Master of Computer Science, Ghent University, Belgium
@@ -16,18 +19,18 @@ I am Jonas, a software developer with a passion.
 
 ### Clients
 * Barco (2017-2018):
-  Python control framework for a media gateway.
+  Python control framework implementation/maintenance for a media gateway.
   The software, running on a customized Debian, is a RTSP server
   that receives stream requests from decoders,
   and starts gstreamer pipelines to handle the media streams.
-  It makes heavy use of object orientation, asyncio,
+  The framework made heavy use of object orientation, asyncio,
   subprocess handling and custom decorators.
 
-* PsiControl(2019-2020):
-  Bare-metal software development in C/C++.
+* PsiControl (2019-2020):
+  Bare-metal software development in C/C++ for consumer electronics.
   Various types of projects, mostly with ARM based MCUs (STM32 and NRF52):
   - small M0 devices for motor and valve control
-  - fast, feature rich STM32H7 boards with touchscreen and external flash
+  - fast, feature rich STM32H7 boards with touchscreen, GUI and external flash
   - with or without RTOS (FreeRTOS)
   - communication over I2C, CAN, UART, SPI, BLE, ...
 
@@ -37,9 +40,9 @@ I am Jonas, a software developer with a passion.
 ------
 
 ## Smaller projects (personal, university and professional)
-* 3D gripper arm to play 4-on-a-row
+* Automating '4-in-a-row' using 6-DOF robotic arm with gripper
 * Visual SLAM with a simple 3 wheeled robot
-* Autonomous person recognition with drone & Qt GUI interface
+* Autonomous person recognition with 3DR Solo drone & desktop app (Qt GUI)
 
 * Backend development with .NET core & SQL server database (hosted in Azure)
 * Frontend development with [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor) WebAssembly (hosted in Azure)
@@ -55,6 +58,7 @@ I am Jonas, a software developer with a passion.
 * C#
 * [Rust](https://www.rust-lang.org/)
 * [FreeRTOS](https://freertos.org/)
+* [TouchGFX](https://www.st.com/content/st_com/en/stm32-graphic-user-interface.html)
 * Git
 * Linux enthusiast
 * Tex
