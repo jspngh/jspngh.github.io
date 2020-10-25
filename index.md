@@ -77,7 +77,7 @@ This includes not only writing code (embedded or systems programming), but also 
 ## Interests
 Lately I've been interested in the "maker"-scene, mostly in 3D printing, CNC machines,
 laser cutters and the accompanying skills like CAD design.
-There's something very enticing about making something that's both unique and useful.
+There's something very rewarding about making something that's both unique and useful.
 
 Other interests and areas of passion are:
 * Mechanical keyboard design: there are several communities of keyboard enthusiasts online,
